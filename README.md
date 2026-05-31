@@ -3,8 +3,9 @@
 A beginner-level CLI number-guessing game built with Python's random module.
 
 ## How to Run
-bash
+```bash
 python main.py
+```
 
 ## How to Play 
 1. The computer picks a random number between 1 and 100 
